@@ -1,3 +1,3 @@
 # hello-world
 Hello world repository
-Follo the instruction from github helloworld
+Follow the instruction from github helloworld
